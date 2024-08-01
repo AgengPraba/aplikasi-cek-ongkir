@@ -1,0 +1,492 @@
+[
+    {
+        "city_id": "14",
+        "name": "Kota Ambon",
+        "province_id": "19"
+    },
+    {
+        "city_id": "19",
+        "name": "Kota Balikpapan",
+        "province_id": "15"
+    },
+    {
+        "city_id": "20",
+        "name": "Kota Banda Aceh",
+        "province_id": "21"
+    },
+    {
+        "city_id": "21",
+        "name": "Kota Bandar Lampung",
+        "province_id": "18"
+    },
+    {
+        "city_id": "23",
+        "name": "Kota Bandung",
+        "province_id": "9"
+    },
+    {
+        "city_id": "34",
+        "name": "Kota Banjar",
+        "province_id": "9"
+    },
+    {
+        "city_id": "35",
+        "name": "Kota Banjarbaru",
+        "province_id": "13"
+    },
+    {
+        "city_id": "36",
+        "name": "Kota Banjarmasin",
+        "province_id": "13"
+    },
+    {
+        "city_id": "48",
+        "name": "Kota Batam",
+        "province_id": "17"
+    },
+    {
+        "city_id": "51",
+        "name": "Kota Batu",
+        "province_id": "11"
+    },
+    {
+        "city_id": "53",
+        "name": "Kota Bau-Bau",
+        "province_id": "30"
+    },
+    {
+        "city_id": "55",
+        "name": "Kota Bekasi",
+        "province_id": "9"
+    },
+    {
+        "city_id": "62",
+        "name": "Kota Bengkulu",
+        "province_id": "4"
+    },
+    {
+        "city_id": "69",
+        "name": "Kota Bima",
+        "province_id": "22"
+    },
+    {
+        "city_id": "70",
+        "name": "Kota Binjai",
+        "province_id": "34"
+    },
+    {
+        "city_id": "73",
+        "name": "Kota Bitung",
+        "province_id": "31"
+    },
+    {
+        "city_id": "75",
+        "name": "Kota Blitar",
+        "province_id": "11"
+    },
+    {
+        "city_id": "79",
+        "name": "Kota Bogor",
+        "province_id": "9"
+    },
+    {
+        "city_id": "89",
+        "name": "Kota Bontang",
+        "province_id": "15"
+    },
+    {
+        "city_id": "93",
+        "name": "Kota Bukittinggi",
+        "province_id": "32"
+    },
+    {
+        "city_id": "106",
+        "name": "Kota Cilegon",
+        "province_id": "3"
+    },
+    {
+        "city_id": "107",
+        "name": "Kota Cimahi",
+        "province_id": "9"
+    },
+    {
+        "city_id": "109",
+        "name": "Kota Cirebon",
+        "province_id": "9"
+    },
+    {
+        "city_id": "114",
+        "name": "Kota Denpasar",
+        "province_id": "1"
+    },
+    {
+        "city_id": "115",
+        "name": "Kota Depok",
+        "province_id": "9"
+    },
+    {
+        "city_id": "120",
+        "name": "Kota Dumai",
+        "province_id": "26"
+    },
+    {
+        "city_id": "130",
+        "name": "Kota Gorontalo",
+        "province_id": "7"
+    },
+    {
+        "city_id": "137",
+        "name": "Kota Gunungsitoli",
+        "province_id": "34"
+    },
+    {
+        "city_id": "151",
+        "name": "Kota Jakarta Barat",
+        "province_id": "6"
+    },
+    {
+        "city_id": "152",
+        "name": "Kota Jakarta Pusat",
+        "province_id": "6"
+    },
+    {
+        "city_id": "153",
+        "name": "Kota Jakarta Selatan",
+        "province_id": "6"
+    },
+    {
+        "city_id": "154",
+        "name": "Kota Jakarta Timur",
+        "province_id": "6"
+    },
+    {
+        "city_id": "155",
+        "name": "Kota Jakarta Utara",
+        "province_id": "6"
+    },
+    {
+        "city_id": "156",
+        "name": "Kota Jambi",
+        "province_id": "8"
+    },
+    {
+        "city_id": "158",
+        "name": "Kota Jayapura",
+        "province_id": "24"
+    },
+    {
+        "city_id": "179",
+        "name": "Kota Kediri",
+        "province_id": "11"
+    },
+    {
+        "city_id": "182",
+        "name": "Kota Kendari",
+        "province_id": "30"
+    },
+    {
+        "city_id": "204",
+        "name": "Kota Kotamobagu",
+        "province_id": "31"
+    },
+    {
+        "city_id": "213",
+        "name": "Kota Kupang",
+        "province_id": "23"
+    },
+    {
+        "city_id": "230",
+        "name": "Kota Langsa",
+        "province_id": "21"
+    },
+    {
+        "city_id": "235",
+        "name": "Kota Lhokseumawe",
+        "province_id": "21"
+    },
+    {
+        "city_id": "242",
+        "name": "Kota Lubuk Linggau",
+        "province_id": "33"
+    },
+    {
+        "city_id": "248",
+        "name": "Kota Madiun",
+        "province_id": "11"
+    },
+    {
+        "city_id": "250",
+        "name": "Kota Magelang",
+        "province_id": "10"
+    },
+    {
+        "city_id": "254",
+        "name": "Kota Makassar",
+        "province_id": "28"
+    },
+    {
+        "city_id": "256",
+        "name": "Kota Malang",
+        "province_id": "11"
+    },
+    {
+        "city_id": "267",
+        "name": "Kota Manado",
+        "province_id": "31"
+    },
+    {
+        "city_id": "276",
+        "name": "Kota Mataram",
+        "province_id": "22"
+    },
+    {
+        "city_id": "278",
+        "name": "Kota Medan",
+        "province_id": "34"
+    },
+    {
+        "city_id": "283",
+        "name": "Kota Metro",
+        "province_id": "18"
+    },
+    {
+        "city_id": "290",
+        "name": "Kota Mojokerto",
+        "province_id": "11"
+    },
+    {
+        "city_id": "318",
+        "name": "Kota Padang",
+        "province_id": "32"
+    },
+    {
+        "city_id": "321",
+        "name": "Kota Padang Panjang",
+        "province_id": "32"
+    },
+    {
+        "city_id": "323",
+        "name": "Kota Padang Sidempuan",
+        "province_id": "34"
+    },
+    {
+        "city_id": "324",
+        "name": "Kota Pagar Alam",
+        "province_id": "33"
+    },
+    {
+        "city_id": "326",
+        "name": "Kota Palangka Raya",
+        "province_id": "14"
+    },
+    {
+        "city_id": "327",
+        "name": "Kota Palembang",
+        "province_id": "33"
+    },
+    {
+        "city_id": "328",
+        "name": "Kota Palopo",
+        "province_id": "28"
+    },
+    {
+        "city_id": "329",
+        "name": "Kota Palu",
+        "province_id": "29"
+    },
+    {
+        "city_id": "334",
+        "name": "Kota Pangkal Pinang",
+        "province_id": "2"
+    },
+    {
+        "city_id": "336",
+        "name": "Kota Parepare",
+        "province_id": "28"
+    },
+    {
+        "city_id": "337",
+        "name": "Kota Pariaman",
+        "province_id": "32"
+    },
+    {
+        "city_id": "343",
+        "name": "Kota Pasuruan",
+        "province_id": "11"
+    },
+    {
+        "city_id": "345",
+        "name": "Kota Payakumbuh",
+        "province_id": "32"
+    },
+    {
+        "city_id": "349",
+        "name": "Kota Pekalongan",
+        "province_id": "10"
+    },
+    {
+        "city_id": "350",
+        "name": "Kota Pekanbaru",
+        "province_id": "26"
+    },
+    {
+        "city_id": "353",
+        "name": "Kota Pematang Siantar",
+        "province_id": "34"
+    },
+    {
+        "city_id": "365",
+        "name": "Kota Pontianak",
+        "province_id": "12"
+    },
+    {
+        "city_id": "367",
+        "name": "Kota Prabumulih",
+        "province_id": "33"
+    },
+    {
+        "city_id": "370",
+        "name": "Kota Probolinggo",
+        "province_id": "11"
+    },
+    {
+        "city_id": "384",
+        "name": "Kota Sabang",
+        "province_id": "21"
+    },
+    {
+        "city_id": "386",
+        "name": "Kota Salatiga",
+        "province_id": "10"
+    },
+    {
+        "city_id": "387",
+        "name": "Kota Samarinda",
+        "province_id": "15"
+    },
+    {
+        "city_id": "394",
+        "name": "Kota Sawah Lunto",
+        "province_id": "32"
+    },
+    {
+        "city_id": "399",
+        "name": "Kota Semarang",
+        "province_id": "10"
+    },
+    {
+        "city_id": "403",
+        "name": "Kota Serang",
+        "province_id": "3"
+    },
+    {
+        "city_id": "407",
+        "name": "Kota Sibolga",
+        "province_id": "34"
+    },
+    {
+        "city_id": "415",
+        "name": "Kota Singkawang",
+        "province_id": "12"
+    },
+    {
+        "city_id": "421",
+        "name": "Kota Solok",
+        "province_id": "32"
+    },
+    {
+        "city_id": "425",
+        "name": "Kota Sorong",
+        "province_id": "25"
+    },
+    {
+        "city_id": "429",
+        "name": "Kota Subulussalam",
+        "province_id": "21"
+    },
+    {
+        "city_id": "431",
+        "name": "Kota Sukabumi",
+        "province_id": "9"
+    },
+    {
+        "city_id": "442",
+        "name": "Kota Sungaipenuh",
+        "province_id": "8"
+    },
+    {
+        "city_id": "444",
+        "name": "Kota Surabaya",
+        "province_id": "11"
+    },
+    {
+        "city_id": "445",
+        "name": "Kota Surakarta (Solo)",
+        "province_id": "10"
+    },
+    {
+        "city_id": "456",
+        "name": "Kota Tangerang",
+        "province_id": "3"
+    },
+    {
+        "city_id": "457",
+        "name": "Kota Tangerang Selatan",
+        "province_id": "3"
+    },
+    {
+        "city_id": "459",
+        "name": "Kota Tanjung Balai",
+        "province_id": "34"
+    },
+    {
+        "city_id": "462",
+        "name": "Kota Tanjung Pinang",
+        "province_id": "17"
+    },
+    {
+        "city_id": "467",
+        "name": "Kota Tarakan",
+        "province_id": "16"
+    },
+    {
+        "city_id": "469",
+        "name": "Kota Tasikmalaya",
+        "province_id": "9"
+    },
+    {
+        "city_id": "470",
+        "name": "Kota Tebing Tinggi",
+        "province_id": "34"
+    },
+    {
+        "city_id": "473",
+        "name": "Kota Tegal",
+        "province_id": "10"
+    },
+    {
+        "city_id": "477",
+        "name": "Kota Ternate",
+        "province_id": "20"
+    },
+    {
+        "city_id": "478",
+        "name": "Kota Tidore Kepulauan",
+        "province_id": "20"
+    },
+    {
+        "city_id": "485",
+        "name": "Kota Tomohon",
+        "province_id": "31"
+    },
+    {
+        "city_id": "488",
+        "name": "Kota Tual",
+        "province_id": "19"
+    },
+    {
+        "city_id": "501",
+        "name": "Kota Yogyakarta",
+        "province_id": "5"
+    }
+]
