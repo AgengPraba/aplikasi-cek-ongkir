@@ -11,7 +11,6 @@ return new class extends Migration {
     public function up(): void
     {
         Schema::create('couriers', function (Blueprint $table) {
-            $table->id();
             $table->string('courier_id');
             $table->string('name');
             $table->timestamps();

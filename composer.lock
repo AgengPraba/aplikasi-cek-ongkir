@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7e8c3c14ff33b199b4a0838993eb8423",
+    "content-hash": "234b4665f918dc70854abced829f28db",
     "packages": [
         {
             "name": "brick/math",
@@ -3107,6 +3107,60 @@
                 }
             ],
             "time": "2024-04-27T21:32:50+00:00"
+        },
+        {
+            "name": "rdj/rajaongkir",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ranggadarmajati/LaravelRajaOngkir.git",
+                "reference": "ce361fb3f47b43984eb223e0d6057bdaa1b34979"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ranggadarmajati/LaravelRajaOngkir/zipball/ce361fb3f47b43984eb223e0d6057bdaa1b34979",
+                "reference": "ce361fb3f47b43984eb223e0d6057bdaa1b34979",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^7.0.1"
+            },
+            "require-dev": {
+                "guzzlehttp/guzzle": "^7.0.1"
+            },
+            "default-branch": true,
+            "type": "package",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Rdj\\Rajaongkir\\RajaongkirServiceProvider"
+                    ],
+                    "aliases": {
+                        "Rajaongkir": "Rdj\\Rajaongkir\\Facades\\Rajaongkir"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Rdj\\Rajaongkir\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rangga Darmajati",
+                    "email": "rangga.android69@gmail.com"
+                }
+            ],
+            "description": "This Package for easy use Raja Ongkir API",
+            "support": {
+                "issues": "https://github.com/ranggadarmajati/LaravelRajaOngkir/issues",
+                "source": "https://github.com/ranggadarmajati/LaravelRajaOngkir/tree/1.0.0"
+            },
+            "time": "2021-09-23T12:39:16+00:00"
         },
         {
             "name": "symfony/clock",
@@ -6676,16 +6730,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "11.2.9",
+            "version": "11.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "c197bbaaca360efda351369bf1fd9cc1ca6bcbf7"
+                "reference": "a8dce73a8938dfec7ac0daa91bdbcaae7d7188a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c197bbaaca360efda351369bf1fd9cc1ca6bcbf7",
-                "reference": "c197bbaaca360efda351369bf1fd9cc1ca6bcbf7",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/a8dce73a8938dfec7ac0daa91bdbcaae7d7188a3",
+                "reference": "a8dce73a8938dfec7ac0daa91bdbcaae7d7188a3",
                 "shasum": ""
             },
             "require": {
@@ -6724,7 +6778,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "11.2-dev"
+                    "dev-main": "11.3-dev"
                 }
             },
             "autoload": {
@@ -6756,7 +6810,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.2.9"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.3.0"
             },
             "funding": [
                 {
@@ -6772,7 +6826,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-07-30T11:09:23+00:00"
+            "time": "2024-08-02T03:56:43+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -7821,7 +7875,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "rdj/rajaongkir": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
