@@ -95,20 +95,20 @@ $("#cekOngkirForm").on("submit", function (e) {
         couriers.push($(this).val());
     });
 
-    var data = {
-        _token: $("input[name='_token']").val(),
-        courier: couriers,
-        weight: $("#weight").val(),
-        provinsi_asal: $("#provinsi_asal").val(),
-        kota_kab_asal: $("#kota_kab_asal").val(),
-        provinsi_tujuan: $("#provinsi_tujuan").val(),
-        kota_kab_tujuan: $("#kota_kab_tujuan").val(),
-    };
+    // var data = {
+    //     _token: $("input[name='_token']").val(),
+    //     courier: couriers,
+    //     weight: $("#weight").val(),
+    //     provinsi_asal: $("#provinsi_asal").val(),
+    //     kota_kab_asal: $("#kota_kab_asal").val(),
+    //     provinsi_tujuan: $("#provinsi_tujuan").val(),
+    //     kota_kab_tujuan: $("#kota_kab_tujuan").val(),
+    // };
 
     $.ajax({
         url: `/cekOngkir`,
         type: "POST",
-        data: data,
+        data: $("#cekOngkirForm").serialize(),
         success: function (response) {
             $("#hasil_cek_ongkir").empty();
             // Pastikan response.result ada dan merupakan array
